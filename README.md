@@ -1,2 +1,2 @@
 # MIPS-Processor-Simulator
- An educational simulator of a computer processing unit based on the MIPS architecture
+ A portuguese implementation of an educational app that simulates a computer processing unit based on the MIPS architecture.
